@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Magic &lt;=&gt; Code</title>
   <subtitle>Practice makes perfect.</subtitle>
-  <link href="/assets/atom.xml" rel="self"/>
+  <link href="/firesBlog/atom.xml" rel="self"/>
   
-  <link href="https://eternalfire.github.io/assets/"/>
-  <updated>2016-11-03T08:48:28.000Z</updated>
-  <id>https://eternalfire.github.io/assets/</id>
+  <link href="https://eternalfire.github.io/firesBlog/"/>
+  <updated>2016-11-03T08:41:48.000Z</updated>
+  <id>https://eternalfire.github.io/firesBlog/</id>
   
   <author>
     <name>EternalFire</name>
@@ -16,25 +16,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>a11031648</title>
-    <link href="https://eternalfire.github.io/assets/2016/11/03/a11031648/"/>
-    <id>https://eternalfire.github.io/assets/2016/11/03/a11031648/</id>
-    <published>2016-11-03T08:48:28.000Z</published>
-    <updated>2016-11-03T08:48:28.000Z</updated>
-    
-    <summary type="html">
-    
-      ...
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>anotherArticle</title>
-    <link href="https://eternalfire.github.io/assets/2016/11/03/anotherArticle/"/>
-    <id>https://eternalfire.github.io/assets/2016/11/03/anotherArticle/</id>
+    <link href="https://eternalfire.github.io/firesBlog/2016/11/03/anotherArticle/"/>
+    <id>https://eternalfire.github.io/firesBlog/2016/11/03/anotherArticle/</id>
     <published>2016-11-03T08:41:48.000Z</published>
     <updated>2016-11-03T08:41:48.000Z</updated>
     
@@ -49,8 +33,8 @@
   
   <entry>
     <title>article001</title>
-    <link href="https://eternalfire.github.io/assets/2016/11/03/article001/"/>
-    <id>https://eternalfire.github.io/assets/2016/11/03/article001/</id>
+    <link href="https://eternalfire.github.io/firesBlog/2016/11/03/article001/"/>
+    <id>https://eternalfire.github.io/firesBlog/2016/11/03/article001/</id>
     <published>2016-11-03T07:07:20.000Z</published>
     <updated>2016-11-03T07:12:34.000Z</updated>
     
@@ -65,8 +49,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://eternalfire.github.io/assets/2016/11/03/hello-world/"/>
-    <id>https://eternalfire.github.io/assets/2016/11/03/hello-world/</id>
+    <link href="https://eternalfire.github.io/firesBlog/2016/11/03/hello-world/"/>
+    <id>https://eternalfire.github.io/firesBlog/2016/11/03/hello-world/</id>
     <published>2016-11-02T17:44:20.000Z</published>
     <updated>2016-11-03T06:33:54.000Z</updated>
     
