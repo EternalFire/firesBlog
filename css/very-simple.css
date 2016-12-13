@@ -438,7 +438,7 @@ article {
   article h2 {
     border-bottom: 1px solid #CCC; }
   article hr {
-    border-top: 3px dashed #878787;
+    border-top: 1px dashed #878787;
     border-bottom: none; }
   article a {
     color: #368CCB;
@@ -577,3 +577,6 @@ article {
 
 .all-tags::before {
   content: "\f02c"; }
+
+.toc ol {
+  list-style-type: none; }
